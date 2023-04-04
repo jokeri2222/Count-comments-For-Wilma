@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Count comments
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/jokeri2222/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Count comments for Wilma
 // @author       jokeri2222
 // @updateURL    https://github.com/jokeri2222/Count-comments-For-Wilma/raw/main/CountComments.user.js
 // @downloadURL  https://github.com/jokeri2222/Count-comments-For-Wilma/raw/main/CountComments.user.js
